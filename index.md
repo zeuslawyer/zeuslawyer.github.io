@@ -21,6 +21,8 @@ __TABLE OF CONTENTS__
 
 [React Components](https://paper.dropbox.com/doc/Components--AR91f5I62YWnnbB9DN76EPakAQ-dW0nXQCfHgtABPbiqxhM8)
 
+[Props](https://paper.dropbox.com/doc/Props--ASDrfyAPyteYbZeWUJTRXNrRAQ-YH76qtsRjouYAddCYwgVO)
+
 [State & Data Flows](https://paper.dropbox.com/doc/State-DataFlows-Basics--AR_0n14ML5Cd9LHgFcboQDYGAQ-S1L71shOKe8fvARsxAGwa)
 
 
