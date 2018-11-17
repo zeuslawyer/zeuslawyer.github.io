@@ -4,7 +4,6 @@ __DOES THIS WORK?__
 
 
 
-WHY THE HECK ISNT THIS PUBLISHING??
 
 # Big O
 “Big O” notation is an abstracted representation of concepts of complexity, specifically the following two types of complexity in computing software:
