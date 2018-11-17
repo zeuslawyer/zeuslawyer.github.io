@@ -4,7 +4,7 @@ This is the main page where you can find the links that take you to my notes-to-
 
 __Please note:__ These are living notes/documents and some are being written as you read them because I'm still learning every day on these subjects.  I will update them as I learn more, or realise I've made a conceptual error, or mistated something.   
 
- If you want to get in touch, especially to help me improve these notes,  hit me up on twitter @zubinpratap .
+ If you want to get in touch, especially to help me improve these notes,  hit me up on twitter [@zubinpratap](https://twitter.com/@zubinpratap) .
 
 Cheerio!
 
