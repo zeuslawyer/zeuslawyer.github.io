@@ -27,9 +27,9 @@ Cheerio!
 
 2. [BLOG APP](https://zubinstestblog.herokuapp.com)    
     * Node, Express
-    * Passort
+    * Passport authentication
     * MongoDB/Mongoose/ MLabs
-    * RESTful routes
+    * RESTful routes, many protected by auth requirement
     * Edit/Comment functionality
 
 
