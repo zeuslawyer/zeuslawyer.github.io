@@ -18,7 +18,7 @@ __TABLE OF CONTENTS__
 
 
 # MY PROJECTS
-1. [VISIJAM](https://github.com/zeuslawyer/visiJAM)
+1. [VISIJAM](https://visijam.netlify.com)
     
     [![](assets/yt_visijam.png)](https://www.youtube.com/watch?v=QhybHEs87mk&feature=youtu.be&t=4205) YouTube Video of the Github/FreeCodeCamp hackathon in SF, where visiJAM placed in the top 6    
     * uses React    
