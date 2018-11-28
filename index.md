@@ -19,7 +19,7 @@ __TABLE OF CONTENTS__
 
 # MY PROJECTS
 1. [VISIJAM](https://github.com/zeuslawyer/visiJAM)
-    * [YouTube Video](https://www.youtube.com/watch?v=QhybHEs87mk&feature=youtu.be&t=4205) of the Github/FreeCodeCamp hackathon in SF, where visiJAM placed in the top 6    
+    * [![](assets/yt_visijam.png)](https://www.youtube.com/watch?v=QhybHEs87mk&feature=youtu.be&t=4205) YouTube Video of the Github/FreeCodeCamp hackathon in SF, where visiJAM placed in the top 6    
     * uses React    
     * uses JAMStack APIs    
     * uses highcharts.js
@@ -31,7 +31,6 @@ __TABLE OF CONTENTS__
     * RESTful routes
     * Edit/Comment functionality
 
-    ![](assets/yt_visijam.png)
 
 3. [REALTIME CHAT APP](https://codelabs-practice.firebaseapp.com/)
     * vanilla JavaScript / HTML
