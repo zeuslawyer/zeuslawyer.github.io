@@ -8,7 +8,7 @@ __Please note:__ These are living notes/documents and some are being written as 
 
 Cheerio!
 
-__TABLE OF CONTENTS__
+# TABLE OF CONTENTS
 
 [MY PROJECTS](#MY-PROJECTS)
 
