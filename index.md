@@ -20,8 +20,9 @@ Cheerio!
 # MY PROJECTS
 1. [VISIJAM](https://visijam.netlify.com)
     
-    [![](assets/yt_visijam.png)](https://www.youtube.com/watch?v=QhybHEs87mk&feature=youtu.be&t=4205) YouTube Video of the Github/FreeCodeCamp hackathon in SF, where visiJAM placed in the top 6    
-    * uses React    
+    [![](assets/yt_visijam.png)](https://www.youtube.com/watch?v=QhybHEs87mk&feature=youtu.be&t=4205) 
+    * YouTube Video of the Github/FreeCodeCamp hackathon in SF, where visiJAM placed in the top 6    
+    * uses ReactJS    
     * uses JAMStack APIs    
     * uses highcharts.js
 
@@ -35,7 +36,7 @@ Cheerio!
 
 3. [REALTIME CHAT APP](https://codelabs-practice.firebaseapp.com/)
     * vanilla JavaScript / HTML
-    * Firebase real-tmie database
+    * Firebase real-time database
     * Firebase Cloud Messaging for Notifications
     * Firebase auth for user auth
 
@@ -45,7 +46,7 @@ Cheerio!
     * React
     * Axios for YouTube API Calls with tokens
     * Component State Management & Props
-    * UI Event Handlers 
+    * UI Event Handlers, with state updates
     * .env and gitignore to protect keys
     
     ![](assets/youtube_clone.gif)
