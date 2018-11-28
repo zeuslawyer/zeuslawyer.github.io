@@ -1,6 +1,6 @@
 # WELCOME!
 
-This is the main page where you can find the links that take you to my notes-to-self, and also some of my favourite projects. 
+This is the main page where you can find the links that take you to my notes-to-self, and also some of [my favourite projects](#MY-PROJECTS). 
 
 __Please note:__ These are living notes/documents and some are being written as you read them because I'm still learning every day on these subjects.  I will update them as I learn more, or realise I've made a conceptual error, or mistated something.   
 
@@ -31,11 +31,24 @@ __TABLE OF CONTENTS__
     * RESTful routes
     * Edit/Comment functionality
 
+    ![](assets/yt_visijam.png)
+
 3. [REALTIME CHAT APP](https://codelabs-practice.firebaseapp.com/)
     * vanilla JavaScript / HTML
     * Firebase real-tmie database
     * Firebase Cloud Messaging for Notifications
     * Firebase auth for user auth
+
+    ![](assets/chat_app.gif)
+
+4. [YOUTUBE CLONE](https://github.com/zeuslawyer/React-Redux/tree/master/1_react_youtube_clone)
+    * React
+    * Axios for YouTube API Calls with tokens
+    * Component State Management & Props
+    * UI Event Handlers 
+    * .env and gitignore to protect keys
+    
+    ![](assets/youtube_clone.gif)
 
 # REACT JS 
 
