@@ -10,12 +10,32 @@ Cheerio!
 
 __TABLE OF CONTENTS__
 
+[MY PROJECTS](#MY-PROJECTS)
+
 [REACT JS](#REACT-JS)
 
 [ALGORITHMS & DATA STRUCTURES](#ALGORITHMS-&-DATA-STRUCTURES)
 
 
+# MY PROJECTS
+1. [VISIJAM](https://github.com/zeuslawyer/visiJAM)
+    * [YouTube Video](https://www.youtube.com/watch?v=QhybHEs87mk&feature=youtu.be&t=4205) of the Github/FreeCodeCamp hackathon in SF, where visiJAM placed in the top 6    
+    * uses React    
+    * uses JAMStack APIs    
+    * uses highcharts.js
 
+2. [BLOG APP](https://zubinstestblog.herokuapp.com)    
+    * Node, Express
+    * Passort
+    * MongoDB/Mongoose/ MLabs
+    * RESTful routes
+    * Edit/Comment functionality
+
+3. [REALTIME CHAT APP](https://codelabs-practice.firebaseapp.com/)
+    * vanilla JavaScript / HTML
+    * Firebase real-tmie database
+    * Firebase Cloud Messaging for Notifications
+    * Firebase auth for user auth
 
 # REACT JS 
 
