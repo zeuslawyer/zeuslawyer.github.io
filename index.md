@@ -65,6 +65,8 @@ Cheerio!
 
 6. [Handling User Input](https://paper.dropbox.com/doc/Handling-user-input--ASMn4Iz6FGE0hNtQlIUKZiDfAQ-OnxtPAV9BjKoNTzW2771q)
 
+7. [Creating Modals](https://paper.dropbox.com/doc/Rendering-Modals-in-React--ATap0~i7NCpFs_tQYDRWzCQqAQ-jf0Selxsdc0PntWmXD9UT)
+
 
 # ALGORITHMS & DATA STRUCTURES
 
