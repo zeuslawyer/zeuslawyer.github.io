@@ -16,7 +16,8 @@ Cheerio!
 [REACT JS](#REACT-JS)
 
 <!-- [MONGO/MONGOOSE](#MONGO/MONGOOSE-QUICK-SNIPPETS) -->
-[MONGO/MONGOOSE](/pages/mongo-mongoose.html)
+[MONGO/MONGOOSE](/pages/mongo-mongoose.md)
+
 [MONGO/MONGOOSE](/mongo-mongoose.html)
 
 [ALGORITHMS & DATA STRUCTURES](#ALGORITHMS-&-DATA-STRUCTURES)

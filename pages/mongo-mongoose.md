@@ -3,10 +3,11 @@
 #setup schema + Model
 var mongoose = require('mongoose');
 
-_(1)create schema.._
+_1)create schema.._
 
 `var UserSchema = new mongoose.Schema({schema-object})`
 
+```javascript
 sample_schema :
 {
     name: String
@@ -26,8 +27,9 @@ sample_schema :
         heightInCms: Number,
         nationality: String }
 }
+```
 
-_(2) then export Schema as a 'Model'_
+_2) then export Schema as a 'Model'_
 
 `module.exports = mongoose.model('User', UserSchema)`
 
@@ -47,7 +49,7 @@ ___Finding Items From DB___
 so User.find({}) will fetch all User documents from the 'users' collection that Mongoose automatically created when exporting the model.  
 
 2. `<Model>.findOne({_id: 'XXXXX'}).exec((err, document)=>{}) `   This will need the `body-parser` npm package to access the path variable that connotes the id of the document we want to receive.  The path variable looks like this: example.com/path/:id. Accessing the `:id` variable depends on what environment you're in - for example, Lambda Functions makes these accessible in the events object that gets passed into the lambda function when invoked.  If you're using an express app then it will look like:
-```
+```javascript
 app.get('/path/:id', (req, res)=>{
     let id = req.params.id
     ///use id in findOne()
@@ -57,7 +59,7 @@ app.get('/path/:id', (req, res)=>{
 ___Post an item to DB___
 __setup for express__
 We need to use `body-parser` to get JSON off the url.
-```
+```javascript
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({
   extended: true
@@ -67,7 +69,7 @@ app.use(bodyParser.urlencoded({
 ___use the Mongoose create method___
 
 The usual way of using this is with an established Schema.  Let's assume its a book schema with three fields : title, author and category.  We then would have an express post route that creates a new Book object from the Schema, sets its properties/fields and saves. It looks like this:
-```
+```javascript
 app.post('/book', function(req, res) {
   var newBook = new Book();
 
@@ -89,7 +91,7 @@ app.post('/book', function(req, res) {
 __NB: Note how the above does NOT use the Mongoose Create method?__
 
 Method 2 uses it, as below:
-```
+```javascript
 app.post('/book2', function(req, res) {
   Book.create(req.body, function(err, book) {
     if(err) {
@@ -110,7 +112,7 @@ This Mongoose method takes 4 arguments
 4. the callback that takes in two arguments, the error (if any) and the updated Document
 
 See below:
-```
+```javascript
 app.put('/book/:id', function(req, res) {
   Book.findOneAndUpdate({
     _id: req.params.id
