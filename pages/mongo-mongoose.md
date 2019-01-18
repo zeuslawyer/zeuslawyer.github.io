@@ -1,7 +1,6 @@
+# Setup schema + Model
 
-
-#setup schema + Model
-var mongoose = require('mongoose');
+`var mongoose = require('mongoose');`
 
 _1)create schema.._
 
@@ -31,7 +30,7 @@ sample_schema :
 
 _2) then export Schema as a 'Model'_
 
-`module.exports = mongoose.model('User', UserSchema)`
+```module.exports = mongoose.model('User', UserSchema)```
 
 # Create functions
 
@@ -39,9 +38,11 @@ _1) install npm dependencies_
 npm i --save mongoose body-parser express
 
 _2) require the relevant Model in the file that has functions that will use the Model_
+
 `const User = require(./Models/User)`
 
 _3) connect to DB_
+
 `mongoose.connect(<DB URI string>)`
 
 ___Finding Items From DB___
