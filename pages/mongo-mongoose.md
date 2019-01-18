@@ -2,7 +2,7 @@
 
 `var mongoose = require('mongoose');`
 
-_1)create schema.._
+_1) create schema.._
 
 `var UserSchema = new mongoose.Schema({schema-object})`
 

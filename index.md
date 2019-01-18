@@ -71,7 +71,7 @@ Cheerio!
 
 7. [Creating Modals](https://paper.dropbox.com/doc/Rendering-Modals-in-React--ATap0~i7NCpFs_tQYDRWzCQqAQ-jf0Selxsdc0PntWmXD9UT)
 
-#MONGO/MONGOOSE QUICK SNIPPETS
+# MONGO/MONGOOSE QUICK SNIPPETS
 1. [Mongoose / Node-Express](pages/mongo-mongoose.md)
 
 # ALGORITHMS & DATA STRUCTURES
