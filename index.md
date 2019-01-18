@@ -8,11 +8,14 @@ __Please note:__ These are living notes/documents and some are being written as 
 
 Cheerio!
 
+
 # TABLE OF CONTENTS
 
 [MY PROJECTS](#MY-PROJECTS)
 
 [REACT JS](#REACT-JS)
+
+[MONGO/MONGOOSE](#MONGO/MONGOOSE-QUICK-SNIPPETS)
 
 [ALGORITHMS & DATA STRUCTURES](#ALGORITHMS-&-DATA-STRUCTURES)
 
@@ -67,6 +70,8 @@ Cheerio!
 
 7. [Creating Modals](https://paper.dropbox.com/doc/Rendering-Modals-in-React--ATap0~i7NCpFs_tQYDRWzCQqAQ-jf0Selxsdc0PntWmXD9UT)
 
+#MONGO/MONGOOSE QUICK SNIPPETS
+1. [Mongoose / Node-Express](pages/mongo-mongoose.md)
 
 # ALGORITHMS & DATA STRUCTURES
 
