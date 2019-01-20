@@ -2,7 +2,7 @@
 # MY PROJECTS
 1. [VISIJAM](https://visijam.netlify.com)
     
-    [![](assets/yt_visijam.png)](https://www.youtube.com/watch?v=QhybHEs87mk&feature=youtu.be&t=4205) 
+    [![](../assets/yt_visijam.png)](https://www.youtube.com/watch?v=QhybHEs87mk&feature=youtu.be&t=4205) 
     * YouTube Video of the Github/FreeCodeCamp hackathon in SF, where visiJAM placed in the top 6    
     * uses ReactJS    
     * uses JAMStack APIs    
@@ -15,6 +15,7 @@
     * RESTful routes, many protected by auth requirement
     * Edit/Comment functionality
 
+    ![](../assets/express_blog.gif)
 
 3. [REALTIME CHAT APP](https://codelabs-practice.firebaseapp.com/)
     * vanilla JavaScript / HTML
@@ -22,7 +23,7 @@
     * Firebase Cloud Messaging for Notifications
     * Firebase auth for user auth
 
-    ![](assets/chat_app.gif)
+    ![](../assets/chat_app.gif)
 
 4. [YOUTUBE CLONE](https://github.com/zeuslawyer/React-Redux/tree/master/1_react_youtube_clone)
     * React
@@ -31,4 +32,4 @@
     * UI Event Handlers, with state updates
     * .env and gitignore to protect keys
     
-    ![](assets/youtube_clone.gif)
+    ![](../assets/youtube_clone.gif)
