@@ -3,7 +3,7 @@
 1. [VISIJAM](https://visijam.netlify.com)
     
     [![](../assets/yt_visijam.png)](https://www.youtube.com/watch?v=QhybHEs87mk&feature=youtu.be&t=4205)
-    _click on the image to see recording of the Github JAMstack hackathon livestream_
+    _click on the image to see a recording of the Github JAMstack hackathon livestream_
      
     * YouTube Video of the Github/FreeCodeCamp hackathon in SF, where visiJAM placed __in the top 6!__   
     * uses ReactJS    
