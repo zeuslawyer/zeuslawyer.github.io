@@ -1,6 +1,6 @@
 # WELCOME!
 
-This is the main page where you can find the links that take you to my notes-to-self, and also some of [my favourite projects](/pages/my-projects). 
+This is the main page where you can find the links that take you to my notes-to-self, and also some of [my favourite projects](/pages/my-projects), [my startup stuff](/pages/whooshka), and [my publications](/pages/my-publications). 
 
 __Please note:__ These are living notes/documents and some are being written as you read them because I'm still learning every day on these subjects.  I will update them as I learn more, or realise I've made a conceptual error, or mistated something.   
 
