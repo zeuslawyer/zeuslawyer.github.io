@@ -3,7 +3,7 @@
 1. [VISIJAM](https://visijam.netlify.com)
     
     [![](../assets/yt_visijam.png)](https://www.youtube.com/watch?v=QhybHEs87mk&feature=youtu.be&t=4205) 
-    * YouTube Video of the Github/FreeCodeCamp hackathon in SF, where visiJAM placed in the top 6    
+    * YouTube Video of the Github/FreeCodeCamp hackathon in SF, where visiJAM placed __in the top 6!__   
     * uses ReactJS    
     * uses JAMStack APIs    
     * uses highcharts.js
@@ -13,7 +13,7 @@
     * Passport authentication
     * MongoDB/Mongoose/ MLabs
     * RESTful routes, many protected by auth requirement
-    * Edit/Comment functionality
+    * Edit/Comment functionality, depending on auth status
 
     ![](../assets/express_blog.gif)
 
@@ -27,8 +27,9 @@
 
 4. [YOUTUBE CLONE](https://github.com/zeuslawyer/React-Redux/tree/master/1_react_youtube_clone)
     * React
-    * Axios for YouTube API Calls with tokens
-    * Component State Management & Props
+    * YouTube API
+    * Axios for asynchronous calls using JS Promises
+    * Component State Management & Props using ES6 fat arrow functions
     * UI Event Handlers, with state updates
     * .env and gitignore to protect keys
     

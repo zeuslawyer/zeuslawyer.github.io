@@ -1,4 +1,5 @@
-# MY PUBLICATIONS
+# MY CODING PUBLICATIONS
+(_many more to come_)
 
 1. [What Learning To Code Actually Taught Me (FreeCodeCamp.org)](https://medium.freecodecamp.org/what-learning-to-code-actually-taught-me-a11fd850af0a)
 
