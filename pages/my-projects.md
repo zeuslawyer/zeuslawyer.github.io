@@ -10,7 +10,16 @@
     * uses JAMStack APIs    
     * uses highcharts.js
 
-2. [BLOG APP](https://zubinstestblog.herokuapp.com)    
+2. [WHOOSHKA PARKING](/pages/whooshka.md) Google Assistant Voice App
+![](../assets/whooshka_google_assistant.gif)
+
+This relates to my Startup Whooshka. I developed this Voice App using:
+* Google Actions on Assistant
+* Google Dialogflow
+* Firebase (serverless) Cloud Functions for fulfillment
+* NodeJS and Javascript
+
+3. [BLOG APP](https://zubinstestblog.herokuapp.com)    
     * Node, Express
     * Passport authentication
     * MongoDB/Mongoose/ MLabs
