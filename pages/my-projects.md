@@ -10,14 +10,14 @@
     * uses JAMStack APIs    
     * uses highcharts.js
 
-2. [WHOOSHKA PARKING](/pages/whooshka.md) Google Assistant Voice App
+2. [WHOOSHKA PARKING](/whooshka.md) Google Assistant Voice App
 ![](../assets/whooshka_google_assistant.gif)
 
-This relates to my Startup Whooshka. I developed this Voice App using:
-* Google Actions on Assistant
-* Google Dialogflow
-* Firebase (serverless) Cloud Functions for fulfillment
-* NodeJS and Javascript
+    This relates to my Startup Whooshka. I developed this Voice App using:
+    * Google Actions on Assistant
+    * Google Dialogflow
+    * Firebase (serverless) Cloud Functions for fulfillment
+    * NodeJS and Javascript
 
 3. [BLOG APP](https://zubinstestblog.herokuapp.com)    
     * Node, Express
@@ -28,7 +28,7 @@ This relates to my Startup Whooshka. I developed this Voice App using:
 
     ![](../assets/express_blog.gif)
 
-3. [REALTIME CHAT APP](https://codelabs-practice.firebaseapp.com/)
+4. [REALTIME CHAT APP](https://codelabs-practice.firebaseapp.com/)
     * vanilla JavaScript / HTML
     * Firebase real-time database
     * Firebase Cloud Messaging for Notifications
@@ -36,7 +36,7 @@ This relates to my Startup Whooshka. I developed this Voice App using:
 
     ![](../assets/chat_app.gif)
 
-4. [YOUTUBE CLONE](https://github.com/zeuslawyer/React-Redux/tree/master/1_react_youtube_clone)
+5. [YOUTUBE CLONE](https://github.com/zeuslawyer/React-Redux/tree/master/1_react_youtube_clone)
     * React
     * YouTube API
     * Axios for asynchronous calls using JS Promises
