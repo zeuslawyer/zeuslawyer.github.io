@@ -21,7 +21,6 @@
 
 3. __REACT NATIVE APP -  "Real FakeNews App"__
 ![](../assets/iOS_react-native-fakenews.png)
-
 * React Native (X-platform)
 * fetch API and state refresh
 * FlatList and refresh functionality
