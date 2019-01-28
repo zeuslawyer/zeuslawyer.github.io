@@ -19,7 +19,17 @@
     * Firebase (serverless) Cloud Functions for fulfillment
     * NodeJS and Javascript
 
-3. [BLOG APP](https://zubinstestblog.herokuapp.com)    
+3. React Native "Real FakeNews App"
+![](../assets/iOS_react-native-fakenews.png)
+
+* React Native (X-platform)
+* fetch API and state refresh
+* FlatList and refresh functionality
+* React Native Elements library
+* Flex styling
+* Class Components and Functional Components (reusable)
+
+4. [BLOG APP](https://zubinstestblog.herokuapp.com)    
     * Node, Express
     * Passport authentication
     * MongoDB/Mongoose/ MLabs
