@@ -19,7 +19,7 @@
     * Firebase (serverless) Cloud Functions for fulfillment
     * NodeJS and Javascript
 
-3. React Native "Real FakeNews App"
+3. __REACT NATIVE APP -  "Real FakeNews App"__
 ![](../assets/iOS_react-native-fakenews.png)
 
 * React Native (X-platform)
