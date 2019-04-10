@@ -11,6 +11,8 @@ Cheerio!
 
 # TABLE OF CONTENTS
 
+[ME ON THE FREECODECAMP PODCAST](http://podcast.freecodecamp.org/53-zubin-pratap-from-lawyer-to-developer)
+
 [MY PROJECTS](/pages/my-projects)
 
 [MY STARTUP](/pages/whooshka)
