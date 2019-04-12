@@ -7,7 +7,7 @@
 
 3. [My Udemy Course](https://www.udemy.com/how-not-to-quit-coding/)
 
-4) [How to implement local fulfillment for Google Assistant actions using Dialogflow](https://medium.freecodecamp.org/how-to-implement-local-fulfillment-for-google-assistant-actions-using-dialogflow-1b3b3a13075f)
+4.  [How to implement local fulfillment for Google Assistant actions using Dialogflow](https://medium.freecodecamp.org/how-to-implement-local-fulfillment-for-google-assistant-actions-using-dialogflow-1b3b3a13075f)
 
 
 
