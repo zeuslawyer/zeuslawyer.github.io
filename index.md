@@ -11,9 +11,9 @@ Cheerio!
 
 ## Technologies I'm familiar with
 
-- Languages & runtimes:  Javascript | Java | Python | Nodejs
+- Languages & runtimes:  Javascript, Java ,  Python  Nodejs
 
-- Libraries & Frameworks: React | Redux | Cypress/Jest | Express | Apollo-client (GraphQL) | prisma-yoga | prisma.io | semantic-ui | Mongo/Mongoose
+- Libraries & Frameworks: React , Redux , Cypress/Jest . Express , Apollo-client (GraphQL) , prisma-yoga , prisma.io , semantic-ui , Mongo/Mongoose
 
 - Services :  Google Firebase, Cloud Functions, Actions on Google, Alexa, Lambda Functions
 
@@ -37,4 +37,4 @@ Cheerio!
 
 ## CONTACT ME 
 
-[Twitter](https://twitter.com/zubinpratap) | [Linkedin](https://linkedin.com/in/zubinpratap)
+[Twitter](https://twitter.com/zubinpratap) , [Linkedin](https://linkedin.com/in/zubinpratap)

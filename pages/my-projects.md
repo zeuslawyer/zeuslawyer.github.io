@@ -19,7 +19,12 @@
     * Firebase (serverless) Cloud Functions for fulfillment
     * NodeJS and Javascript
 
-3. __REACT NATIVE APP -  "Real FakeNews App"__
+2. AUGMENTED REALITY TRAM MAP (click the image for video)
+
+[![](../assets/aug_reality_ptv.png)](https://www.youtube.com/watch?v=NF38tqH5EJM)
+
+
+4. __REACT NATIVE APP -  "Real FakeNews App"__
 ![](../assets/iOS_react-native-fakenews.png)
 * React Native (X-platform)
 * fetch API and state refresh
@@ -27,12 +32,6 @@
 * React Native Elements library
 * Flex styling
 * Class Components and Functional Components (reusable)
-
-4. AUGMENTED REALITY TRAM MAP
-
-[![](../assets/aug_reality_ptv.png)](https://www.youtube.com/watch?v=NF38tqH5EJM)
-
-
 
 5. [BLOG APP](https://zubinstestblog.herokuapp.com)    
     * Node, Express
