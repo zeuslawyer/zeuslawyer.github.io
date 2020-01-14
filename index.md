@@ -11,7 +11,7 @@ Cheerio!
 
 ## Technologies I'm familiar with
 
-- Languages & runtimes:  Javascript, Java ,  Python  Nodejs
+- Languages & runtimes:  Typescript, Javascript,  Python ,  Nodejs, Java, Golang
 
 - Libraries & Frameworks: React , Redux , Cypress/Jest . Express , Apollo-client (GraphQL) , prisma-yoga , prisma.io , semantic-ui , Mongo/Mongoose
 
