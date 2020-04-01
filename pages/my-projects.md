@@ -14,33 +14,31 @@
    _dev version live_: Scan a book's barcode and share what you're reading with friends.
    ![](../assets/scanner.gif)
 
-- React, hooks and ES6
-- Computer Vision Libraries for Scanning Barcodes
-- APIs for book data
-- Mobile sharing options
+   - React, hooks and ES6
+   - Computer Vision Libraries for Scanning Barcodes
+   - APIs for book data
+   - Mobile sharing options
 
-3.  [WHOOSHKA PARKING](/whooshka.md) Google Assistant Voice App
-    ![](../assets/whooshka_google_assistant.gif)
+3. [WHOOSHKA PARKING](/whooshka.md) Google Assistant Voice App
+   ![](../assets/whooshka_google_assistant.gif) This relates to my Startup Whooshka. I developed this Voice App using:
 
-        This relates to my Startup Whooshka. I developed this Voice App using:
-        * Google Actions on Assistant
-        * Google Dialogflow
-        * Firebase (serverless) Cloud Functions for fulfillment
-        * NodeJS and Javascript
+   - Google Actions on Assistant
+   - Google Dialogflow
+   - Firebase (serverless) Cloud Functions for fulfillment
+   - NodeJS and Javascript
 
-4.  AUGMENTED REALITY TRAM MAP (click the image for video)
-
-[![](../assets/aug_reality_ptv.png)](https://www.youtube.com/watch?v=NF38tqH5EJM)
+4. **AUGMENTED REALITY TRAM MAP** (click the image for video)
+   [![](../assets/aug_reality_ptv.png)](https://www.youtube.com/watch?v=NF38tqH5EJM)
 
 5. **REACT NATIVE APP - "Real FakeNews App"**
    ![](../assets/iOS_react-native-fakenews.png)
 
-- React Native (X-platform)
-- fetch API and state refresh
-- FlatList and refresh functionality
-- React Native Elements library
-- Flex styling
-- Class Components and Functional Components (reusable)
+   - React Native (X-platform)
+   - fetch API and state refresh
+   - FlatList and refresh functionality
+   - React Native Elements library
+   - Flex styling
+   - Class Components and Functional Components (reusable)
 
 6. [BLOG APP](https://zubinstestblog.herokuapp.com)
 
